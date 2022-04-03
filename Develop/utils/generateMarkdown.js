@@ -95,7 +95,7 @@ ${renderLicenseSection(data.license)}
 ${data.contributing}
 
 ## Tests
-"To run tests, run the following command:
+To run tests, run the following command:
 
 ${data.tests}
 
